@@ -1,0 +1,1 @@
+Run your web server using ```node app.js```. Visit http://localhost:3000 and you will see a message saying "Hello World".
